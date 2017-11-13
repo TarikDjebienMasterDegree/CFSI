@@ -1,0 +1,60 @@
+Sur une prestation en forfait, on va se baser sur le contrat, pour une prestation en régie sur une commande.
+Le planning donné influence le pilotage du projet. Les Livrables (dates et composition des lots) relient le prestataire et le client sur la durée.
+C'est le contrat, entre le client et le prestataire, qui spécifie la méthode à adopter tout au long du projet de sa signature jusqu'au livrable sous l'influence du devoir de conseil du prestataire envers son client.
+Il faut que le client définisse correctement ces attendus :
+- en termes de livrables, ce qu'il attend exactement, la liste des livrables.
+- les documents à lui fournir pour le suivi de l'exécution
+- les aspects techniques dans un cahier des charges associé avec le contrat.
+
+Les éléments contractuelles sont essentiellement la date de livraison et la qualités des attendus.
+On peut ensuite s'arranger dans un processus de négociation, s'il y a un décalage de livraison ou une modification des attendus.
+Pour des projets plus agiles, c'est plus difficile de spécifier clairement les attendus en début de projet par rapport au contrat, l'aspect
+contractuelle se construit au fur et à mesure du projet. 
+Le contrat est signé mais on signe sur des éléments pas complètement détaillé, qui évoluent et se complètent. Il suffit de spécifier dans le contrat
+que le périmètre attendu de la prestation peut évoluer selon l'avancement du projet. Des clauses définissent correctement la manière dont on a le droit
+et dont on peut faire évoluer les éléments contractuelles.
+Par exemple, un comité de pilotage mensuel qui redéfinit le périmètre ou le contenu des attendus en fin de projet.
+On trouve essentiellement dans les contrat de type forfaitaire des obligations de résultat.
+Dans les prestations en régie, le client définie un profil d'une ressource demandé pour une mission, et nous on lui propose un contrat avec
+une ressource qui correspond au profil demandé correspondant au travaux confié dans la mission donc c'est plus une obligation de moyen.
+En forfait, on s'engage sur une enveloppe budgétaire, pour réaliser le projet sur cette enveloppe. La difficulté au forfait c'est que l'on sait pas à l'avance
+ce qui va se passer, on fait du Design To Cost, on s'arrête quand le budget est dépassé.
+
+Le contrat est une protection entre le prestataire et le client.
+Le client doit avoir son budget validé par sa hierarchie financiere.
+Le contrat permet de délimiter le périmètre à faire.
+A quel délai il peut y avoir des pénalités de retards si on respecte pas les délais , a quel coût ?
+
+Le client demande parfois une période de garantie , on a livrer pour une mise en production,
+le client demande une garantie sur 4,5 ou 6 mois sur ce qui a été livré.
+
+L'aspect contractuelle définit toutes ces choses.
+Une fois ce contrat fait, le client délivre une demande d'investissement.
+Le travail fait repose alors sur le contrat et la commande du client.
+Le contrat intègre aussi un échéancier de paiement, cela permet de délivrer des factures au bon moments sans se poser la question
+si la facture est bonne ou pas puisque c'est contractuellement définie.
+
+On rappel en général :
+- le contexte, le CDC dans le contrat, ses règles comptables, 
+- les clauses de confidentialité sur le travail fait,
+- une clause de non débauche du personnel, il s'astreint à ne pas débaucher le prestataire en régie chez le client à la fin de la prestation.
+
+Les contrats sont trés variée selon les structures:
+exemples : dans les banques , une prestation de 3 jours, contrat de 18 pages.
+
+Ce qu'il faut toujours faire avant de signer :
+- Voir si on a une bonne assurance LOL
+- Vérifier si on est en capacité de répondre à son projet aux délai dans la qualité donné et à la compétence requise.
+  Sinon on préfère refuser le projet pour une petite structure alors qu'une grande structure trouve toujours une ressource.
+  On définit une relation de confiance car un client satisfait c'est un client satisfait, inversement
+  un client non satisfait c'est 10 clients qui le savent. Cela nuit à l'image de la SSII.
+
+L'évolution du contrat conduit à des avenants, les conditions générales ne sont pas répétées, on ne met que les conditions particulières.
+
+Dans les clauses, on demande par exemples :
+- de la disponibilité des utilisateurs pour la recette
+- de la disponibilité des architectes internes pour la mise en prod , le deploiement
+
+En cas de litige, 90% des cas, on cherche à privilégier les arrangements au lieu d"une procédure au tribunal.
+
+
